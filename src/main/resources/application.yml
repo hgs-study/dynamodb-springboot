@@ -1,0 +1,7 @@
+amazon:
+  dynamodb:
+    endpoint: "http://dynamodb.ap-northeast-2.amazonaws.com"
+    region: "ap-northeast-2"
+  aws:
+    accesskey: "accesskey"
+    secretkey: "secretkey"
